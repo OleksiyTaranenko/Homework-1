@@ -1,0 +1,14 @@
+.HeaderButtons{
+    margin: -50px 50px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.HeaderButtons button {
+    font-weight: 800;
+    cursor: pointer;
+    border: 0;
+    background-color: grey;    
+}
+.HeaderButtons button:hover {
+    color: whitesmoke;
+}

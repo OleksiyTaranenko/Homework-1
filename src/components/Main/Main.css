@@ -1,0 +1,8 @@
+.Main {
+    grid-area: m;
+    background-color: whitesmoke;
+}
+.Main p {
+    text-align: center;
+    padding: 50px;
+}
